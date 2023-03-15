@@ -1,6 +1,8 @@
-### Hi, Bartek here 👋
+![](https://github.com/imbarteq/imbarteq/blob/main/donut.gif)
 
 <!--
+### Hi, Bartek here 👋
+
 **imbarteq/imbarteq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
