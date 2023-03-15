@@ -2,8 +2,6 @@
 <img src="https://github.com/imbarteq/imbarteq/blob/main/donut.gif?raw=true" align="center">
 </div>
 
-![](https://github.com/imbarteq/imbarteq/blob/main/donut.gif)
-
 <!--
 ### Hi, Bartek here 👋
 
