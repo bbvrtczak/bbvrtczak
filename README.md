@@ -6,7 +6,9 @@
 
 # Hello, I'm Bartek 👋
 
-I'm a Computer Science student based in Gdańsk.
+I'm a Computer Science student based in Gdańsk. <br/><br/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/imbarteq/) <br/>
+
 
 ## 🔧 Skills & Tools
 - **Languages:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
